@@ -16,7 +16,7 @@ body {
     font-family: 'Raleway', sans-serif;
     color: var(--color-text);
 }
-.container, .form__container1 {
+.container, .form__container {
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -24,7 +24,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.form__container1 {
+.form__container {
     width: 100%;
     max-width: 600px;
     min-height: 500px;
